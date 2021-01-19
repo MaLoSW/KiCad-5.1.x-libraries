@@ -1,0 +1,32 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DSPIC33CH128MP202
+D 90+100MIPS dual-core(M/S), 128k+24k Flash, 16k+4k SRAM, ADC, Timer, SCCP, SENT, UART, SPI, I2C,QEI, CLC, PTG, CRC, PWM, AN COMP, PGA
+K dual-core 16-bit Digital Signal Controller Microchip dsPIC Motor Control
+F https://ww1.microchip.com/downloads/en/DeviceDoc/dsPIC33CH128MP508-Family-Data-Sheet-DS70005319D.pdf
+$ENDCMP
+#
+$CMP DSPIC33CH128MP502
+D 90+100MIPS dual-core(M/S), 128k+24k Flash, 16k+4k SRAM, CAN FD, ADC, Timer, SCCP, SENT, UART, SPI, I2C,QEI, CLC, PTG, CRC, PWM, AN COMP, PGA
+K dual-core 16-bit Digital Signal Controller Microchip dsPIC Motor Control CAN-FD
+F https://ww1.microchip.com/downloads/en/DeviceDoc/dsPIC33CH128MP508-Family-Data-Sheet-DS70005319D.pdf
+$ENDCMP
+#
+$CMP DSPIC33CH64MP202
+D 90+100MIPS dual-core(M/S), 64k+24k Flash, 16k+4k SRAM, ADC, Timer, SCCP, SENT, UART, SPI, I2C,QEI, CLC, PTG, CRC, PWM, AN COMP, PGA
+K dual-core 16-bit Digital Signal Controller Microchip dsPIC Motor Control
+F https://ww1.microchip.com/downloads/en/DeviceDoc/dsPIC33CH128MP508-Family-Data-Sheet-DS70005319D.pdf
+$ENDCMP
+#
+$CMP DSPIC33CH64MP502
+D 90+100MIPS dual-core(M/S), 64k+24k Flash, 16k+4k SRAM, CAN FD, ADC, Timer, SCCP, SENT, UART, SPI, I2C,QEI, CLC, PTG, CRC, PWM, AN COMP, PGA,
+K dual-core 16-bit Digital Signal Controller Microchip dsPIC Motor Control CAN-FD
+F https://ww1.microchip.com/downloads/en/DeviceDoc/dsPIC33CH128MP508-Family-Data-Sheet-DS70005319D.pdf
+$ENDCMP
+#
+$CMP DSPIC33CHXXXMPX02
+D 28-Pin Dual Core, 16-Bit Digital Signal Controllers
+F https://ww1.microchip.com/downloads/en/DeviceDoc/dsPIC33CH128MP508-Family-Data-Sheet-DS70005319D.pdf
+$ENDCMP
+#
+#End Doc Library
